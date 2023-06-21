@@ -8,12 +8,12 @@ function rolarParaDireita(){
     leonardo.style = "display:none"
     bruna.style = "display:flex"
     setaDireita.style = "display:none"
-    setaEsquerda.style = "display:flex; margin-top:55px"
+    setaEsquerda.style = "display:flex; margin-top:35px"
     
 }
 function rolarParaEsquerda(){
     leonardo.style ="display:flex"
     bruna.style ="display:none"
     setaEsquerda.style = "display:none"
-    setaDireita.style = "display:flex margin-top:55px"
+    setaDireita.style = "display:flex margin-top:35px"
 }

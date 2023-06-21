@@ -3,17 +3,17 @@
     font-family: 'Inter';
 }
 #logo{ 
-    margin-left: 50px ;
+    margin-left: 75px ;
     margin-top: 50px;
 }
 
 #titulo-menu-superior {
-    margin-left: 150px;
+    margin-left: 200px;
     margin-top: 50px;
 }
 
 #texto-menu-superior{
-    margin-left: 150px;
+    margin-left: 200px;
     margin-top: 35px;
     padding-bottom: 100px;
 }
@@ -49,20 +49,25 @@
 }
 #titulovideo{
     color: #247ba0;
+    font-size: 45px;
     margin-top: 50px;
+    
 }
 
 #textovideo{
     color: #383838;
+    margin-top: 10px;
+    font-size: 20px;
 }
 
 #video{
-    margin: 50px 25px 50px 100px ;
+    margin: 50px 25px 50px 150px ;
 }
 
 #carrosel{
     background-color: #247BA0;
     padding: 50px;
+    align-items: center;
 }
 
 #titulo-carrosel{
@@ -79,7 +84,7 @@
 }
 
 .cards{
-    margin-left: 50px;
+    margin-left: 25px;
 }
 
 #seta-esquerda{
@@ -91,7 +96,7 @@
 }
 
 .seta{
-    margin-top: 55%;
+    margin-top: 55px;
     cursor: pointer;
 }
 
@@ -112,8 +117,8 @@
 }
 
 input{
-width: 300px;
-height: 40px;
+width: 400px;
+height: 58px;
 background-color: #EAECE5;
 margin: 15px;
 border: 0px;
@@ -123,7 +128,7 @@ padding: 10px;
 
 button{
     background-color: #247BA0;
-    height: 40px;
+    height: 58px;
     width: 250px;
     color: white;
     border: 0;
